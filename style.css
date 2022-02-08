@@ -1,0 +1,49 @@
+body{
+    background-color: pink;
+    color: white;
+}
+#happy{
+    background-color: rgb(47, 0, 255);
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    height: 5%;
+    width: 75%;
+    font-size: 25px;
+}
+#sad{
+    background-color: rgb(47, 0, 255);
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    height: 5%;
+    width: 75%;
+    font-size: 25px;
+}
+#angry{
+    background-color: rgb(47, 0, 255);
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    height: 5%;
+    width: 75%;
+    font-size: 25px;
+}
+#confused{
+    background-color: rgb(47, 0, 255);
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    height: 5%;
+    width: 75%;
+    font-size: 25px;
+}
+h6{
+    font-weight: bolder;
+}
+#camera{
+border: 4px dotted black;
+width: 350px;
+height: 350px;
+}
+
